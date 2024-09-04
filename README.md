@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Myself Soumya Pratap Singh</h1>
 <h3 align="center">A Techie' from India</h3>
 
-- 📫 How to reach me **pratapsinghsoumya@gmail.com**
+- 📫 How to reach me **soumyapratapsingh.work@gmail.com**
 
 - ⚡ Fun fact **I'm a Dora the Explora for Tech stuff**
 
